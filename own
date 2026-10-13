@@ -1,0 +1,44 @@
+<DOCTYPE html>
+    <html>
+        <head>
+            <title>how to make pizza</title>
+        </head>
+        <h1>while making pizza is we have fun</h1>
+        <p>
+            Making pizza is a fun and delicious activity! Here are the steps to make a basic pizza at home.
+        </p>
+        <h2>Steps to Make Pizza Make the Pizza Dough</h2>
+        <p>
+            • .
+            • Add the flour, salt, and olive oil to the yeast mixture, stirring well until it becomes sticky. <br>
+            • Knead the dough by hand into a smooth, springy ball.<br>
+            • Rub a little olive oil all over the dough, cover it loosely, and let it rise at room temperature for 45 minutes to 1
+            hour until doubled in size.
+        </p>
+           <h2>Make the Tomato Sauce</h2>
+           <p>
+            • Add the tomato puree and cook uncovered for 5 minutes, then season with salt.<br>
+            • Cover and simmer on low heat for about 20 minutes until softened, then stir in herbs and crushed black pepper.
+           </p>
+           <h3>Shape and Assemble </h3>
+           <p>
+            • Preheat your oven to 450°F (230°C) for 20 minutes. <br>
+            • Punch down the risen dough and divide it into equal parts.<br>
+            • Roll out each portion into a disk on a lightly floured surface (⅛ to ¼ inch thick) and place it on a greased baking
+            pan.<br>
+            • Brush olive oil on the base, spread a thin layer of tomato sauce, and add shredded mozzarella, your favorite
+            vegetables, and parmesan cheese.
+           </p>
+           <h4>Bake the Pizza</h4>
+           <p>
+            • Bake the pizza in the preheated oven for 10-15 minutes until the crust is golden and the cheese is bubbly.<br>
+            • Remove from the oven, let it cool for a few minutes, then slice and serve!
+           </p>
+        <body>
+            <video width="320" height="240" controls>
+                <source src="video.mp4" type="video/mp4">
+                Your browser does not support the video tag.
+            </video>
+            </body>
+        </head>
+    </html>
